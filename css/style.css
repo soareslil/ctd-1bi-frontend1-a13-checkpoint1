@@ -5,3 +5,55 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.header{
+    border: 10px solid gray;
+}
+
+.img-header{
+    border: 10px solid rgb(54, 35, 165);
+}
+
+.nav-header{
+    border: 10px solid rgb(35, 165, 115);
+}
+
+.section-principal-img-pelo{
+    border: 10px solid rgb(128, 0, 28);
+}
+
+.main{
+    border: 10px solid burlywood;
+}
+
+.section-cards-curiosidades{
+    border: 10px solid rgb(222, 135, 196);
+}
+
+.cards{
+    border: 10px solid yellowgreen;
+}
+
+.img-cards{
+    border: 10px solid red;
+}
+
+.section-video{
+    border: 10px solid midnightblue;
+}
+
+.video-iframe{
+    border: 10px solid magenta;
+}
+
+.footer{
+    border: 10px solid goldenrod;
+}
+
+.nav-footer{
+    border: 10px solid rgb(117, 78, 4);
+}
+
+.img-footer{
+    border: 10px solid aquamarine;
+}
