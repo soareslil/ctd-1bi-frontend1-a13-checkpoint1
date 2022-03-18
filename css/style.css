@@ -118,6 +118,8 @@ align-self: center;
 .section-video{
     /* border: 10px solid midnightblue; */
     /* padding:5px; */
+    display: flex;
+    justify-content: center;
 }
 
 .h2-video{
@@ -193,3 +195,29 @@ footer{
     margin-right: 30px;
 } */
 
+@media (min-width: 1280px){
+
+    .section-cards-curiosidades{
+        flex-direction: row;
+        gap: 30px;
+    }
+
+    .cards{
+        max-width: 30%;
+    }
+    
+    .img-cards{
+        max-width: 80%;
+    }
+
+    .imgMeio{
+        max-width: 270px;
+        height: 192px;
+    }
+
+
+    .video-iframe{
+        width: 1000px;
+        height: 600px;
+    }
+}
