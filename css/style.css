@@ -87,11 +87,12 @@ align-self: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding: 15px;
     /* margin:10px; */
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     box-shadow: 0px 0px 11px 2px rgb(0 0 0 / 25%);
     border-radius: 10px;
+    height: 520px;
 }
 
 .img-cards{
@@ -112,13 +113,22 @@ align-self: center;
     height:  80%;
     width: 100%;
     padding: 15px;
-    margin:5px;
+    /* margin:5px; */
+    height: 190px;
 }
 
 .button-cards{
-    margin: 10px;
+    margin-top: 15px;
     height: 40px;
     width: 100px;
+    color:#755B3E;
+    border: 1px solid #755B3E;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-cards:hover{
+   background-color:#755b3e3f;
 }
 
 .section-video{
@@ -126,6 +136,7 @@ align-self: center;
     /* padding:5px; */
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .h2-video{
