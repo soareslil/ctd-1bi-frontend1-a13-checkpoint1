@@ -1,6 +1,8 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 13 - CHECKPOINT 1 - INDIVIDUAL__
+## 💻✨ CTD : Primeiro Bimestre 
+## 📃✨ Disciplina: Front End 1  
+## 👩‍💻💻  __Aula 13: CHECKPOINT 1 - INDIVIDUAL__
 
 <br>
 
